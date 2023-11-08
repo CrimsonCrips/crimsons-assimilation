@@ -1,7 +1,7 @@
 # Crimsons-Assimilation
 
-![Crimson's Assimilation ]
-("C:\Users\CCrips\Pictures\test\0001.png")
+
+![Uploading 0001.png…]()
 
 Gihub For The Modpack " Crimson's Assimilation"
 
